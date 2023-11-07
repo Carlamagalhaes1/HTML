@@ -1,0 +1,10 @@
+* { margin: 0px; padding: 0px; }
+
+h1 { background-color: greenyellow; color:coral; height: 150px; width: 150px;  }
+
+div {height: 150px; width: 150px; }
+
+p { font-size: 32px; height: 150px; width: 150px; }
+
+.tamanho {height: 150px; width: 150px;}
+.comportamento { display: inline-block; }
