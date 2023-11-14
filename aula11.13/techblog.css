@@ -1,0 +1,35 @@
+* { margin: 0px; padding: 0px;}
+
+body { font-size: 1em; font-family: 'Trebuchet MS', 'Lucida Sans', sans-serif; background-color: #DFE0DF;}
+/* area do Cabeçalho */
+#area-cabecalho { background-color: #F7B600; padding: 15px; text-align: center; }
+
+.padding-cabecalho { padding: 10px;}
+/* area principal */
+#area-principal { width: 920px; margin: 0px auto; padding: 15px;}
+
+#area-postagens { width: 660px; float: left; }
+#area-lateral { width: 240px; float: right; }
+
+.postagem {padding: 20px; margin-bottom: 20px; background-color: #DFE0DF;}
+.conteudo-lateral { background-color: #DFE0DF; padding: 10px; margin-bottom: 20px;}
+
+
+.postagem-lateral {font-size: 0.8em; padding: 10px ; border-bottom: 1px dotted #594317;}
+
+#area-rodape { clear: both; text-align: center; padding: 15px; background-color: #594317;color:  #DFE0DF;}
+
+/* Formatações de Estilo */
+h1 { color: #594317; font-size: 2.5em;}
+h2 { color: #F7B600; text-transform: uppercase; margin-bottom: 15px;}
+h3 { color: #402e32; text-transform: uppercase;}
+
+.fonte-branca { color: #dfe0df}
+
+a { text-decoration: none; text-transform: capitalize; margin-right: 25px; font-size: 1.2em; color: #402E32; -webkit-text-stroke-color: #402E32; -webkit-text-stroke-width: 1px; }
+
+.data-postagem { font-size: 0.8; border-bottom: 1px solid #594317; padding-bottom: 10px; display: block; }
+
+img { border-radius: 8px;}
+
+p { font-size: 1.1em; text-align: justify; margin-top: 10px;}
