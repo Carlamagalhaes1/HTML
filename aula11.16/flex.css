@@ -1,0 +1,10 @@
+* { margin: 0px; padding: 0px;}
+
+.container-body { display: flex; align-items: center; flex-direction: column; font-family: sans-serif;}
+.container-header { background: url(./images/WhatsApp\ Image\ 2023-11-16\ at\ 19.34.24.jpeg) no-repeat; background-size: cover; width: 80%; height: 100vh; color: #ffffff; } 
+.container-nav {padding: 0px 15px; background-color: #212529; height: 80px; display: flex; justify-content: space-between; align-items: center; }
+.container-ul { display: flex;}
+.container-main { width: 80%; }
+.container-section { display: flex; justify-content: space-between;}
+.container-product { display: flex; flex-direction: column; width: 370px;   }
+.container-product-father { display: flex;}
