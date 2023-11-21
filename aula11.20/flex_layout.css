@@ -1,0 +1,29 @@
+* { margin: 0px; padding: 0px; }
+
+body { background-color: #051249; color: #ffffff; display: flex; flex-direction: column; justify-content: space-between; height: 100vh; }
+
+.container-main { display: flex; flex-wrap: wrap; justify-content: space-evenly; }
+
+.section-width1 { width: 35vw; display: flex; flex-direction: column; align-items: flex-end; margin-right: 15px; }
+
+.section-width2 { width: 62vw; display: flex; flex-direction: column; justify-content: space-between;}
+
+.section-container { width: 100vw; display: flex; justify-content: center; }
+
+.div-width1 { width: 50%; height: 40vh; border-radius: 8px; background-color: #448fae; }
+
+.div-width2 { width: 50%; height: 20vh; border-radius: 8px; background-color: #c54cbf; margin-top: 15px; }
+
+.div-bgcolor { background-color: #731EC2; }
+
+.div-div-estrutura { width: 80%; height: 20vh; background-color: #2d64f2; border-radius: 8px; }
+
+.div-container1 { display: flex; width: 60%; height: 40vh; flex-flow: column wrap; justify-content: space-between; margin: 10px 0px; }
+
+.div-div-width1 { width: 38vw; height: 40vh; background-color: #e28c41; border-radius: 8px;}
+
+.div-div-width2 { width: 10vw; height: 18vh; background-color: #376572; margin-left: 20px; }
+
+.div-div-bgcolor { background-color: #c05350; }
+
+.div-item { width: 69vw; height: 20vh; background-color: #898d8e; margin: 15px 0px 0px 70px; border-radius: 8px;}
