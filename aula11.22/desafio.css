@@ -1,0 +1,19 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { background-color: #000000; display: grid; width: 100vw; height: 100vh; gap: 1.5%; grid-template-columns: 25% 25% 11% 11% 28% ;
+    grid-template-areas: 
+    "header-branco header-branco header-branco header-branco header-amarelo"
+    "section-branca01 section-branca01 section-azul section-azul section-branca02"
+    "section-amarela section-vermelha section-azul section-azul section-branca02"
+    "section-amarela section-vermelha section-branca03 section-preta section-branca02"
+    ; }
+
+#header-branco { background-color: #ffffff; grid-area: header-branco ; }
+#header-amarelo { background-color: #ffff00; grid-area: header-amarelo; }
+#section-branca01 { background-color: #ffffff; grid-area: section-branca01; }
+#section-branca02 { background-color: #ffffff; grid-area: section-branca02; }
+#section-branca03 { background-color: #ffffff; grid-area: section-branca03; }
+#section-azul { background-color: #0000ff; grid-area: section-azul; }
+#section-vermelha { background-color: #ff0000; grid-area: section-vermelha; }
+#section-amarela { background-color: #ffff00; grid-area: section-amarela; }
+#section-preta { background-color: #000000; grid-area: section-preta; }
