@@ -18,7 +18,7 @@
 .fade:hover{
     opacity: 1.0;
     transition: 0.8;
-    -webkit-transform: scale(1.3)
+    -webkit-transform: scale(1.3);
 }
 
 .grow{
@@ -34,7 +34,7 @@
 .grow:hover{
     opacity: 1.0;
     transition: 1s;
-    -webkit-transform: scale(3.3)
+    -webkit-transform: scale(3.3);
 }
 
 .shrink{
