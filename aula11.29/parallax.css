@@ -20,11 +20,11 @@ section.module.content { padding: 40px 0px; background-color: #ece7d5; }
 
 section.module.parallax { display: flex; flex-direction: column; justify-content: center; height: 100vh !important; width: 100vw; position: relative; overflow: hidden; background-position: 50% 50%; background-repeat: no-repeat; background-attachment: fixed; background-size: cover; }
 
-section.module.parallax01 { background-image: url(./images/av01.jpeg); }
+section.module.parallax01 { background-image: url(./images/harry\ potter.jpg); }
 
-section.module.parallax02 { background-image: url(./images/av02.jpeg); }
+section.module.parallax02 { background-image: url(./images/OIP.jpg); }
 
-section.module.parallax03 { background-image: url(./images/av03.jpeg); }
+section.module.parallax03 { background-image: url(./images/OIP\ \(1\).jpg); }
 
 section.module.parallax h1 { color: #f1f1f1; text-align: center; font-size: 80px; z-index: 100; text-transform: uppercase; 
 text-shadow: 0 0 1em #242424, 0 0 0.2em #000000, 0 0 0.2em #242424 ; }
