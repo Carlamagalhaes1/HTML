@@ -1,0 +1,5 @@
+* {  margin: 0px; padding: 0px; ;   box-sizing: border-box}
+
+header { background-color: aquamarine; align-items: center; width: 60%; height: 20vh; margin: 10px auto;}
+nav { background-color: aquamarine; align-items: center; width: 60%; height: 20vh; margin:  auto;}
+section {  background-color: black; width: 40%; height: 50vh; margin: 10px  auto; margin-left: 293px;}
