@@ -1,0 +1,12 @@
+* { margin: 0px; padding: 0px;}
+
+header { background-color: blue; width: 60%; margin: 100px; height: 200px; align-items: center; }
+
+.container { display: flex; margin: 25px;}
+
+.div-um { background-color: aqua; width: 100px; height: 100px; }
+.div-dois { background-color: blueviolet;}
+.div-tres { background-color: brown;}
+.div-quatro { background-color: cadetblue;}
+
+footer { background-color: black; width: 60%; height: 200px; margin: 100px}

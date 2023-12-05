@@ -13,6 +13,7 @@ h1 { margin: 20px 0px; background-color: antiquewhite; }
 .flex-footer { background-color: blue; width: 95vw; height: 200px; }
 
 /* FIM LAYOUT FLEX */
+
 /* INICIO LAYOUT GRID SEM AREA */
 .grid-container01 { width: 95vw; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 80px 300px 200px; gap: 15px;  justify-content: space-around; }
 
@@ -24,6 +25,7 @@ h1 { margin: 20px 0px; background-color: antiquewhite; }
 
 #menu-h2 { grid-column-start: 3; }
 /* FIM LAYOUT GRID SEM AREA */
+
 /* INICIO LAYOUT GRID COM AREA */
 .grid-container02 { display: grid; width: 95vw; grid-template-rows: 80px 300px 200px; gap: 15px;
 grid-template-areas:
