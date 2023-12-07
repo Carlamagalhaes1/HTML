@@ -1,0 +1,15 @@
+/*.largura { max-width: 500px; height: 300px; border: 2px dotted black; }
+
+.row { height: 100%; }
+
+.col-6, .col-3 { height: 25px; margin: 0px; }
+
+header { text-align: center;}
+
+.bi.bi-bell, .bi.bi-arrow-through-heart { font-size: 40px; color: green; margin: 2px;} */
+
+
+footer { background-color: black;}
+
+.largura { max-width: 600px; margin: 0px auto;}
+
