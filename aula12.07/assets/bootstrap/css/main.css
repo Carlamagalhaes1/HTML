@@ -1,0 +1,6 @@
+.h100 { height: 100px;}
+.h400 { height: 400px;}
+
+.col-3 { background-color: aqua; height: 50px; border: 1px solid black;}
+
+.borderblack { border: 1px solid black; height: 100px; }
